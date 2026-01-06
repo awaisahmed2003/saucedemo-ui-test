@@ -1,3 +1,4 @@
 # Sauce Demo UI Test Using Selenium
 This repository contains a Selenium WebDriver–based UI automation project developed as part of a university term project on API and UI test automation. The project focuses on automating key user interactions on the SauceDemo e-commerce application using Python and Microsoft Edge.
+
 The automated test suite covers core UI scenarios including page navigation, valid and invalid login validation, adding and removing items from the shopping cart, and logout functionality. Multiple locator strategies such as ID, class name, and CSS selectors are used to reliably identify web elements. Assertions are implemented to verify expected outcomes, ensuring that all tests are fully automated and executable without manual intervention.
